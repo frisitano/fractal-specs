@@ -1,0 +1,11 @@
+repos:
+- repo: https://github.com/igorshubovych/markdownlint-cli
+  rev: v0.31.1
+  hooks:
+  - id: markdownlint
+    args: [--fix]
+- repo: https://github.com/streetsidesoftware/cspell-cli
+  rev: v6.1.7
+  hooks:
+    - id: cspell
+      args: [src/**.md]

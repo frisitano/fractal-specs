@@ -1,0 +1,6 @@
+dictionaryDefinitions:
+  - name: words
+    path: ./dict.txt
+    addWords: true
+dictionaries:
+  - words
