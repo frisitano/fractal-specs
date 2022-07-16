@@ -12,3 +12,4 @@ parallelisation
 parallelise
 drawio
 frisitano
+zkvm

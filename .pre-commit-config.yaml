@@ -3,7 +3,9 @@ repos:
   rev: v0.31.1
   hooks:
   - id: markdownlint
-    args: [--fix]
+    entry: markdownlint
+  - id: markdownlint-fix
+    entry: markdownlint --fix
 - repo: https://github.com/streetsidesoftware/cspell-cli
   rev: v6.1.7
   hooks:

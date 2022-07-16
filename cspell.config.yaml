@@ -4,3 +4,6 @@ dictionaryDefinitions:
     addWords: true
 dictionaries:
   - words
+ignorePaths:
+  - ./src/assets/
+  - ./.pre-commit-config.yaml
