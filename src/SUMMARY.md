@@ -8,6 +8,7 @@
 - [Architecture Overview](./architecture_overview.md)
   - [Messaging Overview](./messaging_overview.md)
 - [Runtime Architecture](./runtime_architecture.md)
-  - [zkvm](./runtime_zkvm.md)
+  - [ZKVM](./runtime_zkvm.md)
   - [DMP](./runtime_dmp.md)
+  - [Talisman](./runtime_talisman.md)
   - [Configuration](./runtime_configuration.md)

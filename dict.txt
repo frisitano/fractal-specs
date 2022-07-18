@@ -15,3 +15,9 @@ frisitano
 zkvm
 utilising
 extrinsics
+parachain
+parachains
+parathread
+parathreads
+HRMP
+initialisation
